@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">Linguagens e tecnologias 💻</p>
+## Linguagens e tecnologias 💻
 
 ###
 
