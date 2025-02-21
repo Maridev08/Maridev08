@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou  estudante de  Desenvolvimento de Sistemas, pela faculdade Unicorp ,tenho 27 anos  e sou  do interior de Minas Gerais (Teófilo Otoni ), atualmente  meus estudos estão focados no Desenvolvimento  Web , para aprimorar dos meus conhecimentos  em HTML, CSS e javaScript. Tenho um grande interesse em me tornar uma profissional full stack, por isso estou sempre em busca de novos desafios que me ajudem a expandir minhas habilidades, tanto no front-end quanto no back-end.</p>
+<p align="left">Sou  estudante de  Desenvolvimento de Sistemas, pela faculdade Unicorp ,tenho 27 anos  e sou  do interior de Minas Gerais (Teófilo Otoni), atualmente  meus estudos estão focados no Desenvolvimento  Web , para aprimorar dos meus conhecimentos  em HTML, CSS e javaScript. Tenho um grande interesse em me tornar uma profissional full stack, por isso estou sempre em busca de novos desafios que me ajudem a expandir minhas habilidades, tanto no front-end quanto no back-end.</p>
 
 ###
 
